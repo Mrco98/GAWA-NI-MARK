@@ -1,1 +1,5 @@
 # GAWA-NI-MARK
+
+ code dump
+ VERSION CONTROL
+ 
